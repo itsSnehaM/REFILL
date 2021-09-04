@@ -83,17 +83,17 @@ A step-by-step series of instructions that tell you how to get the project runni
 
 ## How the app looks
 
-<img src="refill images\home page.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\what we do cards.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\motto section(our motto).png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\donate section.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\write a blog section.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\contact us section.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\message with back to top button.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\fotter section of home page-details.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\write a blog title.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\writing a blog.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="refill images\blog view section.png" width="400" height="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="refill images\home page.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\what we do cards.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\motto section(our motto).png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\donate section.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\write a blog section.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\contact us section.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\message with back to top button.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\fotter section of home page-details.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\write a blog title.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\writing a blog.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="refill images\blog view section.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 
 ## Built with
 
