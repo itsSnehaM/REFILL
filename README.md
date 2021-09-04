@@ -1,6 +1,7 @@
 # Refill
 
 Refill is an interactive web application aimed at promoting sustainable development principles.
+This project is under Hack-O-Uplift.
 
 ## Contents
 
@@ -90,6 +91,8 @@ A step-by-step series of instructions that tell you how to get the project runni
 - In browser open http://localhost:3000/
 
 ## How the app looks
+
+**To view the app live head over to: https://limitless-ocean-57120.herokuapp.com/**
 
 <img src="refill images\home page.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 <img src="refill images\what we do cards.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
