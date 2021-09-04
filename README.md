@@ -33,12 +33,15 @@ The web has made it easier than ever to connect with people and easily accomplis
 
 The project currently does the following things.
 
-- 
--
+- Allows the viewers to connect to like-minded people through our application.
+- Has feature for writing blogs related to current issues and remedies concerning the sustainable development.
+- A contact us section that will help potential volunteers or other users to contact us directly.
+- A responsive web application that portrays the motto of our app very smoothly.
 
 See below for our future steps.
 
-- 
+- Integrate payment gateway feature to collect donations from the users.
+- Features to introduce real-time community forum.
 
 ## Getting started
 Everyone is welcomed to contribute to our project. Mentioning in bold, **you do not need to know the tech stack and tools beforehand to be a part of our project**. This is a learn-and-build projects where the contributors build alongside learning the various concepts and technologies involved.
@@ -46,30 +49,35 @@ Below are a few prerequisites and installation guides:
 
 ### Prerequisites
 
-
-
 #### Softwares needed
 
-- nodejs
-- nodemon
-- npm
-
+-   A web browser
+-   Node, npm and nodemon
+-   MongoDB
+-   Heroku
+-   VS Code
 
 #### Knowledge needed
 
 The best way to learn the following is to google each and everything!
 
--   Very basic understanding of Git and GitHub:
+-   Very basic understanding of git and github:
 
     -   What are repositories (local - remote - upstream), issues, pull requests
     -   How to clone a repository, how to fork a repository, how to set upstreams
     -   Adding, committing, pulling, pushing changes to remote repositories
 
-- For Html:
+-   For backend:
 
-- For CSS:
+    -   [Reading this blog on overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+    -   [Reading this blog on APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+    -   [Reading this blog on npm](https://www.freecodecamp.org/news/what-is-npm-a-node-package-manager-tutorial-for-beginners/)
+    -   Creating a free MongoDB cluster and fetching the connection URI. (you may read my gist on how to - [here](https://gist.github.com/singhayushh/426f10353a8051593828e92c139ebdbc))
 
-- For JS:
+-   For frontend:
+    -   Understanding the differences between HTML and EJS.
+    -   Using variables, if else, loops in EJS.
+    -   CSS !
 
 ### Installing
 
@@ -97,12 +105,20 @@ A step-by-step series of instructions that tell you how to get the project runni
 
 ## Built with
 
+-   CSS
+-   Javascript
+-   Embedded Javascript
+-   Express.js
+-   Node.js, npm and nodemon
+-   MongoDB
+-   Heroku
+-   VS Code
 
 ## Contributing
 
-Please read [contributing.md](contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [contributing.md](contributing.md) for details and our [code of conduct](code_of_conduct.md), and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
  
