@@ -100,7 +100,6 @@ A step-by-step series of instructions that tell you how to get the project runni
 <img src="refill images\donate section.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 <img src="refill images\write a blog section.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 <img src="refill images\contact us section.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-<img src="refill images\message with back to top button.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 <img src="refill images\fotter section of home page-details.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 <img src="refill images\write a blog title.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 <img src="refill images\writing a blog.png" width="800" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
