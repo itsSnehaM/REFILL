@@ -83,6 +83,7 @@ A step-by-step series of instructions that tell you how to get the project runni
 
 ## How the app looks
 
+<img src="refill images\blog view section.png" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Built with
 
