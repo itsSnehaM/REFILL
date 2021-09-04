@@ -48,6 +48,12 @@ Below are a few prerequisites and installation guides:
 
 
 #### Softwares needed
+to run the project- 
+ 1. clone the project
+ 2. in git bash install nodemon 
+ 3. Write npm install in cmd or terminal
+ 4. write nodemon app.js
+ 5. in browser open http://localhost:3000/
 
 
 #### Knowledge needed
