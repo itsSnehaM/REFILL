@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="60" viewBox="0 0 35 60">
+  <g id="scroll-img-white" transform="translate(-930 -277)">
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="8.5" cy="9.5" rx="8.5" ry="9.5" transform="translate(939 288)" fill="#fff"/>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(930 277)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="35" height="60" rx="17.5" stroke="none"/>
+      <rect x="2.5" y="2.5" width="30" height="55" rx="15" fill="none"/>
+    </g>
+  </g>
+</svg>

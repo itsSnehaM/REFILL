@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/blog.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <nav>
+        <div class="title-refill">
+            <img src="./res/icon/Icon ionic-ios-leaf.svg" alt="" class="logo">
+            <span class="refill">Refill</span>
+        </div>
+        <div class="menu-btn">
+            <div class="menu-btn_lines"></div>
+        </div>
+        <div class="buttons">
+            
+            <ul class="nav-links">
+                <li><a class="links" href="#home-sec">Home</a></li>
+                <li><a class="links" href="/blog">Blog</a></li>
+                <li><a class="links" href="#donate-sec">Donate</a></li>
+                <li><a class="links" href="#contact-sec">Contact Us</a></li>
+            </ul>
+            
+            
+        </div>
+
+        <div class="hidden">
+            <ul class="nav-links-hidden">
+                <li><a class="links-hidden" href="#home-sec">Home</a></li>
+                <li><a class="links-hidden" href="/blog">Blog</a></li>
+                <li><a class="links-hidden" href="#donate-sec">Donate</a></li>
+                <li><a class="links-hidden" href="#contact-sec">Contact Us</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <section class="hero-section" id="home-sec">
+        <div class="scroll-down">
+            <div class="text">Write a blog</div>
+            <img src="./res/scroll-img-white.svg" class="scrollimg">
+            <div class="text-small">scroll-down</div>
+        </div>
+        <div class="hero-bottom">
+            <img class="hero-bottom-img" src="./res/homepage-up.svg" alt="">
+            <img class="hero-bottom-img" src="./res/homepage-down.svg" alt="">
+        </div>
+    </section>
+
+    <section class="blog-display">
+
+        <ul>
+            <% blogs.forEach((blog) => { %>
+                <li>
+                    <div class="blog-container">
+                        <div class="title">
+                            <h1><%= blog.blogTitle %></h1>
+                        </div>
+                        <div class="blog-content">
+                            <p>
+                                <%= blog.blogContent %>
+                            </p>
+                        </div>
+                        <div class="vote">
+                            <div class="up-vote">
+                                <img class="up-vote-img" src="./res/navigation-blog.svg" alt="" srcset="">
+                            </div>
+                            <div class="down-vote">
+                                <img class="down-vote-img" src="./res/navigation-blog.svg" alt="" srcset="">
+                            </div>
+                        </div>
+                    </div>
+                    
+                </li>
+            <% })%>
+        </ul>
+
+    </section>
+
+    <section class="blog-writing">
+        <img src="./res/layeredwave.svg" alt="" srcset="" class="opinion-top">
+        <div class="blog-writing-container">
+            <div class="opinion">Your Opinion!!</div>
+            <form action="/blog" method="post">
+                <div class="blog-title flex">
+                    <label for="title">Title of the blog:</label>
+                    <input type="text" name="blogTitle" id="" class="title">
+                </div>
+                <div class="blog-textarea flex">
+                    <label for="blog-content">Content of the blog</label>
+                    <textarea name="blogContent" id="" cols="30" rows="10" class="blog-content"></textarea>
+                </div>
+                <div class="blog-user-details ">
+                    <div class="name flex">
+                        <label for="title">Name:</label>
+                        <input type="text" name="blogName" id="" class="blog-name">
+                    </div>
+                    <div class="email flex">
+                        <label for="email">E-mail:</label>
+                        <input type="email" name="blogEmail" id="" class="blog-email">
+                    </div>
+                </div>
+                <button type="submit" name="button" class="publish">Publish</button>
+            </form>
+        </div>
+        <img src="./res/wave-haikei.svg" alt="" srcset="" class="opinion-bottom">
+    </section>
+
+
+    <!-----------------------------------------save-energy------------------------------------------------>
+    <section class="save-energy-and-back-to-top">
+        <div>
+            <h2 class="save-heading">SAVE ENERGY! SAVE GENERATIONS!!</h2>
+        </div>
+        <div>
+            <a href="#"><img class="navigation-image navigation-image-top" src="./res/navigation.png" alt=""
+                    srcset=""></a>
+        </div>
+    </section>
+
+
+    <%- include("footer"); -%>
+
+
+
+
+
+
+
